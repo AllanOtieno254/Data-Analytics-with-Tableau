@@ -1,0 +1,15 @@
+Tableau-Data-Visualization/
+├── Datasets/               # Contains datasets used in projects
+│   ├── dataset1.csv
+│   └── dataset2.xlsx
+├── Dashboards/             # Exported Tableau dashboards in PDF or image formats
+│   ├── dashboard1.pdf
+│   └── dashboard2.png
+├── Workbooks/              # Tableau workbook files (.twb or .twbx files)
+│   ├── project1.twbx
+│   └── project2.twbx
+├── Images/                 # Screenshots or images used in README
+│   ├── dashboard_overview.png
+│   └── insights_chart.png
+├── README.md               # Project overview and documentation
+└── LICENSE                 # License for repository (optional)
