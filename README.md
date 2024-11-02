@@ -9,7 +9,7 @@ The purpose of this repository is to serve as a portfolio for data visualization
 - Analytical insights
 - Explanations of visualization choices
 
-![data visualization dashboard](https://github.com/user-attachments/assets/9d8572c3-9e78-4f88-b05f-5ae69f54a8ec)
+![tableau visualization](https://github.com/user-attachments/assets/a0298b27-13a9-4dfd-8ceb-405f886a3b11)
 
 
 Feel free to explore the repository, clone it, and use it as a reference or inspiration for your own Tableau projects.
@@ -29,7 +29,7 @@ To maintain an organized structure, this repository has been divided into specif
 
 ## 🚀 Getting Started
 
-![tableau visualization](https://github.com/user-attachments/assets/a0298b27-13a9-4dfd-8ceb-405f886a3b11)
+![data visualization dashboard](https://github.com/user-attachments/assets/9d8572c3-9e78-4f88-b05f-5ae69f54a8ec)
 
 ### Prerequisites
 To fully explore the contents of this repository, you will need:
